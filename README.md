@@ -1,10 +1,8 @@
-[**Conversor de Moedas Java**
 
-![Conversor de Moedas Java](https://example.com/capa.png)
 
-[![GitHub license](https://img.shields.io/github/license/your/repository)](https://github.com/your/repository/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/your/repository)](https://github.com/your/repository/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/your/repository)](https://github.com/your/repository/issues)
+# Conversor de Moedas Java
+
+![Conversor de Moedas Java](screen.png)
 
 ## Índice
 1. [Descrição do Projeto](#descrição-do-projeto)
@@ -30,18 +28,18 @@ O projeto está em desenvolvimento.
 Em breve...
 
 ## Acesso ao Projeto
-O código fonte do projeto está disponível em [repositório GitHub]([https://github.com/mbraga2023/Alura---ConversorMoedas]).
+O código fonte do projeto está disponível em [repositório GitHub](https://github.com/mbraga2023/Alura---ConversorMoedas).
 
 ## Tecnologias Utilizadas
 - Java
 - API ExchangeRate
 
 ## Pessoas Contribuidoras
-- [Nome da pessoa](https://github.com/alura)
+- [Alura](https://github.com/alura)
 
 ## Pessoas Desenvolvedoras do Projeto
-- [Nome da pessoa](https://github.com/mbraga2023)
+- [Michel Braga](https://github.com/mbraga2023)
 
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](https://github.com/your/repository/blob/master/LICENSE).
-](https://github.com/mbraga2023/Alura---ConversorMoedas)
+
